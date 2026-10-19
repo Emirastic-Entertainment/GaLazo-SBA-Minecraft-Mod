@@ -20,13 +20,15 @@ Bu mod Android cihazlar için hazırlanmıştır; iPhone ve iPad'e kurulamaz.
 
 ## APK Bilgileri
 
-- **Sürüm:** 1.0.0
-- **Dosya boyutu:** 237 MB
+- **Sürüm:** 1.1
+- **Dosya boyutu:** 238 MB
 - **Gereksinim:** Android 6.0 veya üzeri (64 bit)
-- **Son güncelleme:** 18 Ekim 2026
-- **SHA-256:** `1f5178d7dee7800c1022b7a1ef1f8cc5735a74c91b4ac7de0e7f58e406450dcc`
+- **Son güncelleme:** 19 Ekim 2026
+- **SHA-256:** `a103fe2351a7fc4833b8d0cbad50a8240cd0eb02490303fe19bd0c5fe22a621c`
 
 İndirdiğin dosyanın SHA-256 değeri yukarıdakiyle aynıysa dosya bozulmamış ve değiştirilmemiş demektir.
+
+1.0.0 yüklüyse 1.1'i doğrudan üzerine kurabilirsin.
 
 ## Kurulum Hakkında
 
