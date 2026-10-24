@@ -8,27 +8,37 @@ Minecraft Dünyası'nı keşfet, blokları kır ve yerleştir, eşyalar üret, a
 
 > Bu, GaLazo tarafından hazırlanmış hayran yapımı bir moddur ve Super Bear Adventure'ın resmî bir özelliği veya güncellemesi değildir.
 
+## Modda Neler Var?
+
+- **Minecraft Dünyası** ve köyü; mağaranın içinde ise zenginler köyü. Oradaki televizyona herhangi bir YouTube video bağlantısı yapıştırıp videoyu oyun içinden izleyebilirsin.
+- Minecraft köyünde kurtarılması gereken **8 ayı**. En az 3 ayı kurtardığında dağın tepesindeki portal açılıyor ve **Boss Herobrine** ile kapışıyorsun.
+- Her haritada kullanabileceğin bir sürü farklı **blok**.
+- Hem Minecraft moblarını hem de SBA karakterlerini çağırabilen **yumurtalar**.
+- **GaLazo Oyun Evi:** 2 katta 12 mini oyun (XOX, futbol, okçuluk, parkur ve fazlası), her galibiyete zümrüt ödülü ve en üst katta trambolin alanı.
+
+Tüm görselleri indirme sayfasında görebilirsin.
+
 ## İndirme
 
 Modu resmî indirme sayfasından indirebilirsin:
 
 ### 👉 [galazo.ch/sba-minecraftmod](https://galazo.ch/sba-minecraftmod)
 
-İndirme adımlarını, kurulum bilgilerini ve yardım videosunu orada bulabilirsin.
+İndirme adımlarını, kurulum bilgilerini ve yardım videosunu orada bulabilirsin. Sayfa Türkçe, İngilizce, Portekizce, İspanyolca, Endonezce ve Rusça olarak kullanılabilir.
 
 Bu mod Android cihazlar için hazırlanmıştır; iPhone ve iPad'e kurulamaz.
 
 ## APK Bilgileri
 
-- **Sürüm:** 1.1
-- **Dosya boyutu:** 238 MB
+- **Sürüm:** 2.0
+- **Dosya boyutu:** 239 MB
 - **Gereksinim:** Android 6.0 veya üzeri (64 bit)
-- **Son güncelleme:** 19 Ekim 2026
-- **SHA-256:** `a103fe2351a7fc4833b8d0cbad50a8240cd0eb02490303fe19bd0c5fe22a621c`
+- **Son güncelleme:** 24 Ekim 2026
+- **SHA-256:** `289dd0967b762e028d7032d903cf58f71eb23f0e52a93ff028fab5d844eb0bd1`
 
 İndirdiğin dosyanın SHA-256 değeri yukarıdakiyle aynıysa dosya bozulmamış ve değiştirilmemiş demektir.
 
-1.0.0 yüklüyse 1.1'i doğrudan üzerine kurabilirsin.
+Önceki bir sürüm yüklüyse 2.0'ı doğrudan üzerine kurabilirsin.
 
 ## Kurulum Hakkında
 
@@ -63,7 +73,7 @@ GaLazo Minecraft Modu, GaLazo tarafından hazırlanmış hayran yapımı bir mod
 
 ### English
 
-GaLazo Minecraft Modu is a fan-made Android mod by GaLazo that brings Minecraft-inspired features into Super Bear Adventure. Download it only from the official page: [galazo.ch/sba-minecraftmod](https://galazo.ch/sba-minecraftmod) (Android 6.0 or newer, 64-bit; not available for iPhone or iPad).
+GaLazo Minecraft Modu is a fan-made Android mod by GaLazo that brings Minecraft-inspired features into Super Bear Adventure. Explore the Minecraft World, rescue 8 bears, fight the boss Herobrine and play 12 mini games in the GaLazo Game House. Download it only from the official page, available in English, Turkish, Portuguese, Spanish, Indonesian and Russian: [galazo.ch/sba-minecraftmod](https://galazo.ch/sba-minecraftmod) (Android 6.0 or newer, 64-bit; not available for iPhone or iPad).
 
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT. Also not an official Super Bear Adventure product and not affiliated with or endorsed by its developer.
 
